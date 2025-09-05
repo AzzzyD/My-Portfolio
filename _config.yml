@@ -1,7 +1,5 @@
 title: Azhar Deliwala
 description: Turning Data into Insights
-
-remote_theme: pages-themes/time-machine@v2.0
-
+remote_theme: pages-themes/time-machine
 plugins:
   - jekyll-remote-theme
