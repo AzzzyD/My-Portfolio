@@ -1,5 +1,25 @@
-title: Azhar Deliwala
-description: Turning Data into Insights
+title: "Azhar Deliwala Portfolio"
+description: "Data Scientist | Business Intelligence Analyst | Data Analyst"
 remote_theme: pages-themes/time-machine
+
+# --- Plugins ---
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-feed     # generates RSS feed (optional)
+  - jekyll-sitemap  # generates sitemap.xml (SEO boost)
+
+# --- Author Info ---
+author:
+  name: "Azhar Deliwala"
+  email: "azhardeliwala@gmail.com"
+  linkedin: "http://www.linkedin.com/in/azhar-deliwala-77972b18a"
+  github: "https://github.com/AzzzyD"
+
+# --- Theme Options ---
+show_downloads: false   # hide unnecessary "Download" link
+google_analytics:       # add your GA ID here if you want tracking
+
+# --- Build Settings ---
+markdown: kramdown
+highlighter: rouge
